@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hi! I'm Mohd Saad 🚀</h1>
 <p align="center">
-  <strong>Aspiring Machine Learning Engineer | Python Enthusiast | Innovator</strong>
+  <strong>Artificial Intelligence | Machine Learning | Python | Data Science</strong>
 </p>
 
 <!-- About Me -->
